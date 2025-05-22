@@ -1,0 +1,213 @@
+Nome Pizzeria: Crosta Divina
+Pizze
+Sfizi
+Insalate
+Dolci
+Bevande
+Allergeni
+Pizze
+691
+Margherita
+9€
+Passata di pomodoro San Marzano Dop, fior di latte, Parmigiano Reggiano, basilico fresco, olio extravergine d’oliva biologico.
+285
+‘nduja
+11€
+Passata di pomodoro San Marzano Dop, fior di latte, nduja calabrese Madeo, Parmigiano Reggiano, basilico fresco, olio extravergine d’oliva biologico
+378
+Bufala
+12€
+Passata di pomodoro San Marzano. Dop, bufala campana Dop, pepe nero, basilico fresco, olio extravergine d’oliva biologico
+156
+Marinara
+8€
+Passata di pomodoro San Marzano Dop, pomodori datterini rossi, origano di collina, aglio, basilico fresco, olio extravergine d’oliva biologico.
+166
+Napoli
+13€
+Passata di pomodoro San Marzano Dop, fior di latte, alici di Cetara, olive Riviera, capperi di Salina, origano, basilico fresco, olio extravergine d’oliva biologico.
+417
+Diavola Gialla
+14€
+Passata di pomodorini del Piennolo del Vesuvio gialli, fior di latte, salamino piccante, fili di peperoncino, ‘nduja calabrese Madeo, basilico fresco, olio extravergine d’oliva biologico.
+209
+Norma
+12€
+Passata di pomodoro San Marzano Dop, provola affumicata, melanzane al forno, pomodorini semi dry, ricotta salata, basilico fresco, olio extravergine d’oliva biologico.
+47
+Tonno e Cipolla
+15€
+Crema di cipolle di Tropea, fior di latte, cipolle rosse di Tropea caramellate, filetti di tonno Armatore, olive Riviera, polvere di cipolla bianca, basilico, olio extravergine d’oliva biologico.
+164
+Vegana
+12€
+Crema di verze, scarola cotta nel forno a legna, pomodori datterini rossi, olive Riviera, mandorle tostate, basilico fresco, olio extravergine d’oliva biologico.
+73
+Capricciosa
+15€
+Passata di pomodoro San Marzano Dop, fior di latte, prosciutto cotto Praga, funghi champignon, carciofini, polvere di olive Riviera, basilico fresco, olio extravergine d’oliva biologico.
+27
+Quattro formaggi
+15€
+Fior di latte, cacioricotta del Cilento, gorgonzola dolce Dop, cialde di Parmigiano Reggiano aromatizzate al limone, confettura di albicocche, olio extravergine d’oliva biologico.
+25
+Amatriciana Gialla
+14€
+Passata di datterini gialli, pomodorini semi dry rossi, guanciale di Amatrice, pecorino romano Dop, pepe nero, basilico fresco, olio extra vergine d’oliva biologico.
+12
+Fiori di zucca e alici di Cetara
+15€
+Passata di pomodori datterini gialli, fior di latte, alici di Cetara, fiori di zucca, olive Riviera, peperoncino contuso, basilico fresco.
+3
+Vegetariana
+13€
+Passata di pomodori datterini gialli, stracciatella pugliese, peperoni arrostiti nel forno a legna, zucchine marinate alla menta, fiori di zucca, olio evo biologico.
+6
+Salame ventricina e friggitelli
+14€
+Passata di datterini rossi arrostiti, fior di latte, salame ventricina abruzzese, friggitelli, riduzione di peperoncino.
+11
+Crudo San Daniele e Parmigiano Reggiano
+15€
+Passata di pomodoro dop San Marzano, fior di latte, pomodori datterini gialli e rossi, prosciutto crudo San Daniele, scaglie di Parmigiano Reggiano, basilico fresco, olio evo biologico.
+SFIZI
+Polpette di bovino piemontese
+9 €
+con passata di pomodoro San Marzano Dop, Parmigiano Reggiano, basilico fresco e pane cotto nel forno a legna.
+Hummus di ceci
+6 €
+con paprika dolce, olio extravergine d’oliva biologico e pane cotto nel forno a legna.
+Stracciatella pugliese
+7 €
+con pepe nero e olio extravergine d’oliva biologico e pane cotto nel forno a legna.
+Burrata pugliese con datterini
+10 €
+rossi e gialli e olio extravergine d’oliva biologico.
+Bruschetta
+5 €
+con datterini rossi e gialli, basilico fresco, olio extravergine d’oliva biologico.
+Bruschetta
+6 €
+con stracciatella pugliese, friarielli, alici di Cetara, olio extravergine d’oliva biologico.
+Scarola spadellata
+6 €
+con olive Riviera, capperi di Salina, olio extravergine d’oliva biologico.
+Tagliere di salumi
+12 €
+con crudo San Daniele, salame dolce piacentino, speck, prosciutto cotto e focaccia.
+INSALATE
+Insalata Tonno
+10€
+Misticanza, mozzarella di bufala, filetti di tonno, datterini rossi, olive Riviera.
+Songino e finocchi
+10 €
+Songino, finocchi, arance, noci, semi di zucca.
+dolci
+Tiramusù con ricotta di bufala
+7 €
+Cannolo siciliano scomposto
+6 €
+con crema di ricotta e gocce di cioccolato.
+Affogato al caffè
+7€
+con gelato alla nocciola e granella di nocciole.
+Gelato fior di latte
+9€
+con frutti di bosco (mirtili, lamponi, more).
+Cheesecake
+8€
+con confettura ai frutti di bosco.
+Crostata al cioccolato
+8€
+bevande
+Bibite in vetro
+4 €
+Coca Cola – Coca Cola Zero Fanta – Sprite
+Acqua Panna
+3 €
+(50 cl)
+Acqua S. Pellegrino
+3 €
+(50 cl)
+Birra alla Spina – Oro
+Piccola 4 € / Media 6 €
+Moretti Baffo Oro (no asporto)
+Birra alla Spina – Rossa
+Piccola 4 € / Media 6 €
+Moretti La Rossa (no asporto)
+Birre Artigianali
+7 €
+Birre artigianali 33cl
+Birra in Bottiglia – Rossa
+4 €
+Birra Moretti La Rossa 33cl
+Birra in Bottiglia – Bianca
+4 €
+Birra Moretti La Bianca 33cl
+Birra in Bottiglia – Oro
+4 €
+Birra Moretti La Oro 33cl
+Prosecco di Valdobbiadene DOCG Extra Dry Colbelo
+Bottiglia 30 € / Calice 7 €
+Casa Vinicola Merotto
+Le Vedute
+Bottiglia 40 € / Calice 7 €
+Lugana Classico D.O.C.
+Bottiglia 30 € / Calice 7 €
+Tenuta Roveglia (Lombardia)
+Pecorino Superiore D.O.C. Spinelli
+Bottiglia 30 € / Calice 7 €
+Le Stagioni (Abruzzo)
+Collio Ribolla Gialla D.O.C.
+Bottiglia 30 € / Calice 7 €
+Vigna del Lauro (Friuli)
+Vermentino di Sardegna D.O.C. Camminera
+Bottiglia 35 €
+Audarya (Sardegna)
+A.A. Gewurztraminer D.O.C.
+Bottiglia 40 €
+Von Blumen (Alto Adige)
+Rosato Cannonau di Sardegna D.O.C.
+28 €
+Audarya (Sardegna)
+Rosato Primitivo
+Bottiglia 28 € / Calice 7 €
+A Mano (Puglia)
+Dolcetto d’Alba D.O.C
+Bottiglia 28 € / Calice 7 €
+La Ganghijia (Piemonte)
+Aglianico I.G.P.
+Bottiglia 25 € / Calice 6 €
+La Capranera (Campania)
+Isonzo Merlot D.O.C
+Bottiglia 27 € / Calice 7 €
+Vigna del Lauro (Friuli)
+Monica di Sardegna D.O.C
+Bottiglia 28 €
+Audarya (Sardegna)
+A.A. Pinot Nero D.O.C
+Bottiglia 40 €
+Von Blumen (Alto Adige)
+Jefferson
+4 €
+L’Amaro di Farmily
+4 €
+Si premette che la nostra attività elabora e somministra, utilizzando un’ unico laboratorio e un’unica dispensa, prodotti di gastronomia di qualsiasi specie, non destinati ad alimenti particolari per popolazioni allergiche od intolleranti. Per cui la possibilità di contaminazione diretta o indiretta è possibile in ogni piatto/prodotto per qualsiasi allergene presente in azienda.
+
+Lista Allergeni
+Dove siamo?
+Prenota!
+
+
+
+
+(Aggiungi la mappa google
+Lun-Ven 12.30 – 15.00 / 19.30 – 23.30
+Sab-Dom 12.30 – 15.00 / 19.30 – 00.00
+Telefono: 02 54118711
+
+Crosta Divina SRL Corso Buenos Aires, 47 | 20135 Milano MI | Partita IVA: 09242710961 Privacy & Cookie Policy – Made with love by Sinapps
+SEGUICI SUI SOCIAL
+
+Instagram
+ Facebook-f
