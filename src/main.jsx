@@ -3,12 +3,7 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
 
-// Estrai i dati del menu da App o definiscili qui se preferisci
-// Per semplicità, li passiamo come prop, assumendo che App li possa fornire
-// o che siano accessibili globalmente/tramite context.
-
-// Temporaneamente, definiamo qui i dati del menu per passarli. 
-// Idealmente, questi verrebbero da una fonte comune o da App.
+// Ripristina i dati statici del menu
 const menuData = {
   pizzeriaName: "Crosta Divina",
   categories: [
@@ -99,19 +94,13 @@ const menuData = {
     hours: [
       "Lun-Ven 12.30 – 15.00 / 19.30 – 23.30",
       "Sab-Dom 12.30 – 15.00 / 19.30 – 00.00"
-    ],
-    social: [
-      { name: "Instagram", url: "https://instagram.com" },
-      { name: "Facebook", url: "https://facebook.com" }
-    ],
-    allergenInfo: "Si premette che la nostra attività elabora e somministra, utilizzando un’ unico laboratorio e un’unica dispensa, prodotti di gastronomia di qualsiasi specie, non destinati ad alimenti particolari per popolazioni allergiche od intolleranti. Per cui la possibilità di contaminazione diretta o indiretta è possibile in ogni piatto/prodotto per qualsiasi allergene presente in azienda.",
-    mapLink: "https://maps.google.com/?q=Corso+Buenos+Aires+47+Milano"
+    ]
   }
 };
 
-const root = createRoot(document.getElementById('root'));
-root.render(
+createRoot(document.getElementById('root')).render(
   <StrictMode>
+    {/* Passa menuData come prop ad App */}
     <App menuData={menuData} />
   </StrictMode>
-);
+)
